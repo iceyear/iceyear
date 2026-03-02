@@ -9,7 +9,7 @@
   🎈 You could visit my [homepage](https://iceyear.eu.org) and [blog](https://blog.iceyear.eu.org) if you would like to get more information about me.  
   😇 If you love my code, please give me a ⭐. Thanks a lot!
 
-<img alt="GitHub stats" src="./profile/github-stats.svg" width="500">
+<img alt="GitHub stats" src="./profile/stats.svg" width="500">
 
 [![Top Langs](./profile/top-langs.svg)](https://github.com/iceyear)
 
