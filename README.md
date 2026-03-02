@@ -9,10 +9,17 @@
   🎈 You could visit my [homepage](https://iceyear.eu.org) and [blog](https://blog.iceyear.eu.org) if you would like to get more information about me.  
   😇 If you love my code, please give me a ⭐. Thanks a lot!
 
-<img alt="GitHub stats" src="./profile/stats.svg" width="500">
-
-[![Top Langs](./profile/top-langs.svg)](https://github.com/iceyear)
-
-[![Ice Year's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceyear&theme=xcode)](https://github.com/iceyear)
-
-[![trophy](./profile/trophy.svg)](https://github.com/iceyear)
+<div align="left">
+  <a href="https://github.com/iceyear">
+    <img alt="GitHub stats" src="./profile/stats.svg" height="165">
+  </a>
+  <a href="https://github.com/iceyear">
+    <img alt="Top Langs" src="./profile/top-langs.svg" height="195">
+  </a>
+  <a href="https://github.com/iceyear">
+    <img alt="Ice Year's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iceyear&theme=xcode" width="850">
+  </a>
+  <a href="https://github.com/iceyear">
+    <img alt="trophy" src="./profile/trophy.svg" width="850">
+  </a>
+</div>
