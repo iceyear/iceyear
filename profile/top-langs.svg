@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="117.56"
+          width="118.21"
           height="8"
           fill="#178600"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="117.56"
+          x="118.21"
           y="0"
-          width="110.38"
+          width="110.99"
           height="8"
           fill="#3178c6"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="227.94"
+          x="229.2"
           y="0"
-          width="14.17"
+          width="14.25"
           height="8"
           fill="#000080"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.10999999999999"
+          x="243.45"
           y="0"
-          width="12.86"
+          width="12.879999999999999"
           height="8"
           fill="#A97BFF"
         />
@@ -168,21 +168,21 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.97"
+          x="246.32999999999998"
           y="0"
-          width="12.72"
+          width="12.32"
           height="8"
-          fill="#89e051"
+          fill="#dea584"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.69"
+          x="248.64999999999998"
           y="0"
-          width="12.31"
+          width="11.34"
           height="8"
-          fill="#dea584"
+          fill="#012456"
         />
       
       
@@ -191,21 +191,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 47.02%
+        C# 47.28%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 44.15%
+        TypeScript 44.40%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 5.67%
+        Lua 5.70%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
@@ -217,16 +217,16 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 1.09%
+        Rust 0.93%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 0.92%
+        PowerShell 0.54%
       </text>
     </g>
   </g></g>
